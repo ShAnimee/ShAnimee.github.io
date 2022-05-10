@@ -1,9 +1,12 @@
 /* Applies to the entire body of the HTML document (except where overridden by more specific
 selectors). */
 body {
+  text-align: center;
   margin: 25px;
-  background-color: yellow;
+  background-color: black;
   font-family: arial, sans-serif;
+  text-color: white;
+  font-color: white;
   font-size: 14px;
 }
 
